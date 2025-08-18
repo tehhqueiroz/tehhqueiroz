@@ -1,6 +1,9 @@
 # 👋 Olá, eu sou o Stevan (tehhqueiroz)
-Sou apaixonado por tecnologia, programação e automação de processos. 🚀  
-Atualmente estudando **Análise e Desenvolvimento de Sistemas** e sempre explorando novas ferramentas de IA.
+💻 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por programação, desenvolvimento de planilhas e inteligência artificial.
+🔧 Conhecimentos em Python, Node.js, C, HTML, CSS, SQL, Git/GitHub, Excel e VBA.
+🧪 Atuei quase 3 anos no Laboratório Nacional de Nanotecnologia, desenvolvendo peças, câmeras de vácuo e microfabricação. Também participei de um projeto da HP (EUA), criando software em LabVIEW para medições de memristor.
+🏭 Atualmente gerencio uma indústria, focado em desenvolvimento de produtos, automação de processos e marketing digital.
+💡 Sou apaixonado por aprender e explorar novas tecnologias.
 
 ---
 
