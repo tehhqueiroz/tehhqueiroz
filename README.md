@@ -25,9 +25,6 @@ Atualmente estudando **Análise e Desenvolvimento de Sistemas** e sempre explora
 | ![Stats](https://github-readme-stats.vercel.app/api?username=tehhqueiroz&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tehhqueiroz&layout=compact&theme=tokyonight) |
 |---|---|
 
-## 🔥 Streak
-![Streak](https://streak-stats.demolab.com?user=tehhqueiroz&theme=tokyonight)
-
 ---
 
 ## 🌎 Onde me encontrar
