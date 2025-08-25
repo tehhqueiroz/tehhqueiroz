@@ -6,7 +6,7 @@
 
 🧪 Atuei quase 3 anos no Laboratório Nacional de Nanotecnologia, desenvolvendo peças, câmeras de vácuo e microfabricação. Também participei de um projeto da HP (EUA), criando software em LabVIEW para medições de memristor.  
 
-🏭 Atualmente gerencio uma indústria, focado em desenvolvimento de produtos, automação de processos e marketing digital.  
+🏭 Atualmente gerencio uma indústria, focado em desenvolvimento de produtos, gerenciamento de equipes, automação de processos e marketing digital.  
 
 💡 Sou apaixonado por aprender e explorar novas tecnologias.  
 
